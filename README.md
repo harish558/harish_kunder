@@ -1,4 +1,4 @@
-# faculty Progress
+# Faculty Progress
 <br>
 
 ## Daily progress reports, certificates and more...
