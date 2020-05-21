@@ -1,7 +1,7 @@
-# Student Progress
+# faculty Progress
 <br>
 
-## Daily progress reports, certificates, assignments and more...
+## Daily progress reports, certificates and more...
 
-<b> USN: </b> your_usn    <br>
-<b> NAME: </b>  your_name
+<b> Faculty ID : </b> 4ALCS000472  <br>
+<b> NAME: </b>  HARISH KUNDER
